@@ -26,4 +26,4 @@ function draw() {
   
   angle += 0.03; // Increase to rotate faster
 }
-Recuperação de Tecnologia
+
